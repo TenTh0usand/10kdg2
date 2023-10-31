@@ -14,8 +14,7 @@ Inspired by [Digital Garden - Publish Obsidian Notes For Free](https://dg-docs.
 
 ### In 10 seconds
 
-大连医科大学21预防本科生
-
+- A student who now study in [[DMU\|DMU]](Dalian Medical University)
 - 20 years old
 - Content creator ([Bilibili UP](https://space.bilibili.com/325155785?spm_id_from=333.337.0.0), [10k的温馨小窝](https://www.tenthousand.cn/), Other Soicla Medias)
 - Gaming (mostly Kovaaks) and IT-work enthusiast
