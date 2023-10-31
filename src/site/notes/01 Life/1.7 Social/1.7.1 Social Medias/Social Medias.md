@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/01-life/1-7-social/1-7-1-social-medias/social-medias/"}
 ---
 
-# Social Medias
-
 ## 社交媒体：
 
 Wechat: 13342202042
