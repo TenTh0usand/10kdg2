@@ -14,9 +14,9 @@ Inspired by [Digital Garden - Publish Obsidian Notes For Free](https://dg-docs.
 
 ### In 10 seconds
 
-- A student who now study in [[DMU\|DMU]](Dalian Medical University)
+- A student who now study in [[02 College/2.0.1 CollegeFiles/DMU\|DMU]](Dalian Medical University)
 - 20 years old
-- Content creator ([Bilibili UP](https://space.bilibili.com/325155785?spm_id_from=333.337.0.0), [10k的温馨小窝](https://www.tenthousand.cn/), Other Soicla Medias)
+- Content creator ([Bilibili UP](https://space.bilibili.com/325155785?spm_id_from=333.337.0.0), [10k的温馨小窝](https://www.tenthousand.cn/), Other [[01 Life/1.7 Social/1.7.1 Social Medias/Social Medias\|Social Medias]])
 - Gaming (mostly Kovaaks) and IT-work enthusiast
 
 ### In 10 minutes
@@ -50,6 +50,7 @@ If only I had a wordpress where I could force feed you the cooler resources I c
 If you do want to stalk me though, hopefully the below can help make it easier ^^
 
 ## Recommanded
+
 ### [shareplaylist](https://space.bilibili.com/22661729?spm_id_from=333.337.0.0)
 粉丝：8.6万 · 视频：971 分享喜欢的音乐·油管搬运工·祝大家听歌愉快
 
