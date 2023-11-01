@@ -21,10 +21,10 @@ Email: wilson_du@qq.com | TenTh0usand@outlook.com
 
 **个人网页：[10k的温馨小窝](https://www.tenthousand.cn)**
 
-**Steam: [10k](https://steamcommunity.com/id/tenth0usand/)**
+**[Steam](https://store.steampowered.com/) :  [10k](https://steamcommunity.com/id/tenth0usand/)**
 [https://steamcommunity.com/id/tenth0usand/](https://steamcommunity.com/id/tenth0usand/)
 
-[Kook](https://kook.top/hFZOtY)：
+[Kook](https://m.kookapp.cn/)：
 [https://kook.top/hFZOtY](https://kook.top/hFZOtY)
 
 ## 其他（不存在的网站）：
