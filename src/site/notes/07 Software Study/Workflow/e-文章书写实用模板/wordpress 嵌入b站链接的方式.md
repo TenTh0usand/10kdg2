@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"07 Software Study/Workflow/e-articles","permalink":"/07 Software Study/Workflow/e-articles/"}
+{"dg-publish":true,"dg-permalink":"07 Software Study/Workflow/e-articles","permalink":"/07 Software Study/Workflow/e-articles/","title":"How wordpress embeds Bilibili videos"}
 ---
 
 # 第一次尝试 来自 B站
