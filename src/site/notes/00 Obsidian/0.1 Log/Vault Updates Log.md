@@ -4,9 +4,11 @@
 
 ### 2023
 
+2023-11-3
+添加新插件 Advanced Tables
+
 2023-11-2
 添加新插件 Calendar
-
 
 2023-11-01
 添加新插件 Emoji Toobar
