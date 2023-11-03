@@ -8,34 +8,35 @@
 
 ![](https://10kcos1-1306082059.cos.ap-shanghai.myqcloud.com/pic-1/202310242227423.png)
 
-## Who am I?
+## About Me
+### Who am I?
 
 Inspired by [Digital Garden - Publish Obsidian Notes For Free](https://dg-docs.ole.dev/) , here's me in different depths.
 
-### In 10 seconds
+#### In 10 seconds
 
 - A student who now study in [[02 College/2.0.1 CollegeFiles/DMU\|DMU]](Dalian Medical University)
 - 20 years old
 - Content creator ([Bilibili UP](https://space.bilibili.com/325155785?spm_id_from=333.337.0.0), [10k的温馨小窝](https://www.tenthousand.cn/), Other [[01 Life/1.7 Social/1.7.1 Social Medias/Social Medias\|Social Medias]])
 - Gaming (mostly Kovaaks) and IT-work enthusiast
 
-### In 10 minutes
+#### In 10 minutes
 
 See my [[12 Stages/Digital Garden/About Me\|About Me]] page (in progress)
 
-## Where am I??
+### Where am I??
 
 What you're on right now is a digital garden !
 
 It's my little corner of the internet (see [The importance of digital gardens in metric-driven social media](https://notes.johnmavrick.com/the-importance-of-digital-gardens-in-metric-driven-social-media/)) where I publicly share my notes related to what I'm doing, what content I'm consuming, etc.
 
-### How do I navigate this vault?
+## How do I navigate this vault?
 
 Digital gardens are websites organized by bi-directional links instead of by time or alphabetical order.
 
 This means that rigid structures are not the main form of organization - you explore notes by hopping between links, Maps of Content (MOCs), and a limited folder system using your curiosity as your north star.
 
-### How do I make my own?
+## How do I make my own?
 
 I edit this using Obsidian, a note-taking software that I use for my Second Brain. 
 
@@ -43,9 +44,11 @@ To host my notes, I use the [Obsidian Digital Garden Plugin](https://dg-docs.ol
 
 I would use Obsidian Publish, but the problem with it is some plugins that I use a lot like Dataview don't work properly (which is an integral part of my note organization).
 
-### I'm interested in your notes and what you're doing, but I don't want to have to manually revisit you...
+[[12 Stages/Digital Garden/I only upload these files to my Digital Garden\|I only upload these files to my Digital Garden]]
 
-If only I had a wordpress where I could force feed you the cooler resources I consumed, notes I took, and things I did throughout the week...
+## I'm interested in your notes and what you're doing, but I don't want to have to manually revisit you...
+
+I've wordpress website where I could force feed you the cooler resources I consumed, notes I took, and things I did throughout the week...
 
 If you do want to stalk me though, hopefully the below can help make it easier ^^
 
