@@ -6,6 +6,8 @@
 
 2023-11-3
 添加新插件 Advanced Tables
+添加新插件 Excalidraw
+
 
 2023-11-2
 添加新插件 Calendar
