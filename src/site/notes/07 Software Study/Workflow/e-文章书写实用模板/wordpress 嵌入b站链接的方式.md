@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-software-study/workflow/e/wordpress-b/"}
+{"dg-publish":true,"dg-permalink":"07 Software Study/Workflow/e-articles","permalink":"/07 Software Study/Workflow/e-articles/"}
 ---
 
 # 第一次尝试 来自 B站
