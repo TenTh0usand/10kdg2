@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-software-study/obsidian-using/obsidian/remotely-save/remotely-save-and-tencent-cloud-cos/","tags":["Obsidian","Tech/Obsidian","clipping"]}
+{"dg-publish":true,"permalink":"/07-software-study/obsidian-using/obsidian/remotely-save/remotely-save-and-tencent-cloud-cos/","tags":["Obsidian","Tech/Obsidian","clipping"],"noteIcon":""}
 ---
 
 
