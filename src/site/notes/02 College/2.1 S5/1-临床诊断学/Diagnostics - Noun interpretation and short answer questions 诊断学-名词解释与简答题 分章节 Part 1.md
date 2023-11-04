@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-college/2-1-s5/1/diagnostics-noun-interpretation-and-short-answer-questions-part-1/","tags":["诊断学"]}
+{"dg-publish":true,"permalink":"/02-college/2-1-s5/1/diagnostics-noun-interpretation-and-short-answer-questions-part-1/","tags":["诊断学"],"noteIcon":""}
 ---
 
 
