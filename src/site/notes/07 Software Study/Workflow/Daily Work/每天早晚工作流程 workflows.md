@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-software-study/workflow/daily-work/workflows/"}
+{"dg-publish":true,"permalink":"/07-software-study/workflow/daily-work/workflows/","noteIcon":""}
 ---
 
 早上
