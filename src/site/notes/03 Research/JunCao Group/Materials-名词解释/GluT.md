@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research/jun-cao-group/materials/glu-t/","tags":["Reserch/名词解释group1"]}
+{"dg-publish":true,"permalink":"/03-research/jun-cao-group/materials/glu-t/","tags":["Reserch/名词解释group1"],"noteIcon":""}
 ---
 
 葡萄糖转运蛋白GLUT是一类负责机体葡萄糖进出入组织器官的关键门控蛋白。它们负责向人体的不同组织转运葡萄糖。GLUT1主要负责葡萄糖进入红细胞和跨越血脑屏障，GLUT2主要在肝、脾、小肠等内脏细胞中发挥作用，GLUT3负责为神经系统摄取葡萄糖，GLUT4则是肌肉和脂肪组织的主要葡萄糖转运蛋白。
