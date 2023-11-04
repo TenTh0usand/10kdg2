@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-college/2-1-s5/2/health-service-management-2/"}
+{"dg-publish":true,"permalink":"/02-college/2-1-s5/2/health-service-management-2/","noteIcon":""}
 ---
 
 # 第七章 卫生资金管理
