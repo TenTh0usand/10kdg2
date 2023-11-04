@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research/jun-cao-group/materials/ldha/","tags":["Reserch/名词解释group1"]}
+{"dg-publish":true,"permalink":"/03-research/jun-cao-group/materials/ldha/","tags":["Reserch/名词解释group1"],"noteIcon":""}
 ---
 
 LDHA是一种酶，也称为乳酸脱氢酶A（Lactate dehydrogenase A）。在人体中，它由LDHA基因编码，是乳酸脱氢酶的一部分。乳酸脱氢酶是一种催化丙酮酸和L-乳酸之间的相互转化的酶，同时伴随着NADH和NAD+的相互转化。LDHA主要存在于大多数体细胞中，尤其是肌肉组织和肿瘤中
