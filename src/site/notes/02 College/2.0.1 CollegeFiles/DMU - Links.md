@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-college/2-0-1-college-files/dmu-links/","tags":["大医资源"]}
+{"dg-publish":true,"permalink":"/02-college/2-0-1-college-files/dmu-links/","tags":["大医资源"],"noteIcon":""}
 ---
 
 ## 大连医科大学常用链接 - 一站式
