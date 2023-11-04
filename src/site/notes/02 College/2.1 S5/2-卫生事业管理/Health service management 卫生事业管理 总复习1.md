@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-college/2-1-s5/2/health-service-management-1/"}
+{"dg-publish":true,"permalink":"/02-college/2-1-s5/2/health-service-management-1/","noteIcon":""}
 ---
 
 # 第一章：绪论
