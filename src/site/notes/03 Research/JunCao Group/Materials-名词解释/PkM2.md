@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research/jun-cao-group/materials/pk-m2/","tags":["Reserch/名词解释group1"]}
+{"dg-publish":true,"permalink":"/03-research/jun-cao-group/materials/pk-m2/","tags":["Reserch/名词解释group1"],"noteIcon":""}
 ---
 
 PKM2是丙酮酸激酶的一种同工异构体，由PKM2基因编码。它是一种糖酵解酶，催化磷酸烯醇式丙酮酸（PEP）和ADP反应生成丙酮酸和ATP。PKM2在肿瘤细胞中高表达，参与肿瘤代谢重塑和生长1。
