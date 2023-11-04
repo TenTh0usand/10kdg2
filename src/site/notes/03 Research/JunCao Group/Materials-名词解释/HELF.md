@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research/jun-cao-group/materials/helf/","tags":["Reserch/名词解释group1"]}
+{"dg-publish":true,"permalink":"/03-research/jun-cao-group/materials/helf/","tags":["Reserch/名词解释group1"],"noteIcon":""}
 ---
 
 HELF细胞说明书 Cat NO.: CL-0281
