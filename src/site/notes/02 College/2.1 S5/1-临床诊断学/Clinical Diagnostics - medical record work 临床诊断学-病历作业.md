@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-college/2-1-s5/1/clinical-diagnostics-medical-record-work/","tags":["诊断学"]}
+{"dg-publish":true,"permalink":"/02-college/2-1-s5/1/clinical-diagnostics-medical-record-work/","tags":["诊断学"],"noteIcon":""}
 ---
 
 姓名：张某某
