@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/12-stages/digital-garden/test-files/10k-s-digital-garden-v0-1-test-1/"}
+{"dg-publish":true,"permalink":"/12-stages/digital-garden/test-files/10k-s-digital-garden-v0-1-test-1/","noteIcon":""}
 ---
 
 How can I publish and write faster?
