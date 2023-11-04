@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-obsidian/0-1-log/vault-updates-log/","tags":["Obsidian"]}
+{"dg-publish":true,"permalink":"/00-obsidian/0-1-log/vault-updates-log/","tags":["Obsidian"],"noteIcon":""}
 ---
 
 ### 2023
