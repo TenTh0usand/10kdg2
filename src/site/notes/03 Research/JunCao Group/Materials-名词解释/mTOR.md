@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research/jun-cao-group/materials/m-tor/","tags":["Reserch/名词解释group1"]}
+{"dg-publish":true,"permalink":"/03-research/jun-cao-group/materials/m-tor/","tags":["Reserch/名词解释group1"],"noteIcon":""}
 ---
 
 [mTOR是一种丝氨酸/苏氨酸激酶，也称为雷帕霉素靶蛋白（mechanistic target of rapamycin）。mTOR是一个重要的信号通路，参与调节细胞生长、代谢、凋亡和自噬等生物过程](https://zhuanlan.zhihu.com/p/440979083)[1](https://zhuanlan.zhihu.com/p/440979083)[。mTOR含有两种复合体，分别为mTORC1和mTORC2。mTORC1主要调节细胞生长和代谢，对雷帕霉素敏感；mTORC2主要调节细胞存活、增殖和细胞骨架重塑，对雷帕霉素不敏感](https://zhuanlan.zhihu.com/p/47499302)[2](https://zhuanlan.zhihu.com/p/47499302)[。如果您需要更多信息，请参考知乎专栏](https://zhuanlan.zhihu.com/p/440979083)
