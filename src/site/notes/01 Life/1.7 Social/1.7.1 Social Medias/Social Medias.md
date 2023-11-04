@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-life/1-7-social/1-7-1-social-medias/social-medias/"}
+{"dg-publish":true,"permalink":"/01-life/1-7-social/1-7-1-social-medias/social-medias/","noteIcon":""}
 ---
 
 ## 社交媒体：
