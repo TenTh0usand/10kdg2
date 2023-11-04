@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/12-stages/digital-garden/about-me/","tags":["DG"]}
+{"dg-publish":true,"permalink":"/12-stages/digital-garden/about-me/","tags":["DG"],"noteIcon":""}
 ---
 
 ### [Bilibili主页](https://space.bilibili.com/325155785?spm_id_from=333.788.b_765f7570696e666f.1)
