@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-software-study/obsidian-using/obsidian-application/make-a-callout-block-callout/","tags":["Obsidian","Tech/Obsidian","Workflow/Obsidian"]}
+{"dg-publish":true,"permalink":"/07-software-study/obsidian-using/obsidian-application/make-a-callout-block-callout/","tags":["Obsidian","Tech/Obsidian","Workflow/Obsidian"],"noteIcon":""}
 ---
 
 ### What is a callout?
