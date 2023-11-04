@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-software-study/obsidian-using/obsidian-application/embed-components-in-obsidian-obsidian/","title":"Embed components in obsidian"}
+{"dg-publish":true,"permalink":"/07-software-study/obsidian-using/obsidian-application/embed-components-in-obsidian-obsidian/","title":"Embed components in obsidian","noteIcon":""}
 ---
 
 Embed components in obsidian:
