@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-software-study/obsidian-using/obsidian-application/callout/","tags":["Obsidian","Tech/Obsidian","clipping"]}
+{"dg-publish":true,"permalink":"/07-software-study/obsidian-using/obsidian-application/callout/","tags":["Obsidian","Tech/Obsidian","clipping"],"noteIcon":""}
 ---
 
 As of v0.14.0, Obsidian supports callout blocks, sometimes called "admonitions". Callout blocks are written as a blockquote, inspired by the "alert" syntax from Microsoft Docs.
