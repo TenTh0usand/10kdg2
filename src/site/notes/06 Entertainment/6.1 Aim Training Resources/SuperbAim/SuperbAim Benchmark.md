@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-entertainment/6-1-aim-training-resources/superb-aim/superb-aim-benchmark/","tags":["Aim_Resources","SuperbAim"]}
+{"dg-publish":true,"permalink":"/06-entertainment/6-1-aim-training-resources/superb-aim/superb-aim-benchmark/","tags":["Aim_Resources","SuperbAim"],"noteIcon":""}
 ---
 
 
