@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/12-stages/digital-garden/i-only-upload-these-files-to-my-digital-garden/","tags":["DG"]}
+{"dg-publish":true,"permalink":"/12-stages/digital-garden/i-only-upload-these-files-to-my-digital-garden/","tags":["DG"],"noteIcon":""}
 ---
 
 00 Obsidian/0.1 Log/Vault Updates Log
