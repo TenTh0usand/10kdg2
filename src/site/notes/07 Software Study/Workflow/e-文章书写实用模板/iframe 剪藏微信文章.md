@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-software-study/workflow/e/iframe/","tags":["公众号","clipping/methods"]}
+{"dg-publish":true,"permalink":"/07-software-study/workflow/e/iframe/","tags":["公众号","clipping/methods"],"noteIcon":""}
 ---
 
 ### 写在前面：为什么一定要用flowus剪藏
