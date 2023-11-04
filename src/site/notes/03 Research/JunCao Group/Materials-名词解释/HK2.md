@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research/jun-cao-group/materials/hk-2/","tags":["Reserch/名词解释group1"]}
+{"dg-publish":true,"permalink":"/03-research/jun-cao-group/materials/hk-2/","tags":["Reserch/名词解释group1"],"noteIcon":""}
 ---
 
 HK2是一种酶，也称为己糖激酶2（Hexokinase 2）。在人体中，它由HK2基因编码，主要存在于骨骼肌中。它的主要功能是将葡萄糖磷酸化为葡萄糖-6-磷酸（G6P），这是大多数葡萄糖代谢途径的第一步。它定位于线粒体外膜上。HK2的表达受胰岛素调节，并且在大鼠中的研究表明，它参与了快速生长的癌细胞中观察到的高糖酵解速率 
