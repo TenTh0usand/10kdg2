@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-college/2-1-s5/1/00-toxicology-lab-class/mouse-bone-marrow-polychromatic-erythrocyte-micronucleus-test/","tags":["毒理学基础","实验课/毒理学"]}
+{"dg-publish":true,"permalink":"/02-college/2-1-s5/1/00-toxicology-lab-class/mouse-bone-marrow-polychromatic-erythrocyte-micronucleus-test/","tags":["毒理学基础","实验课/毒理学"],"noteIcon":""}
 ---
 
 小鼠骨髓嗜多染红细胞微核试验
