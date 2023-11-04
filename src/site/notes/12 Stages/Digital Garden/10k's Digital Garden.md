@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/12-stages/digital-garden/10k-s-digital-garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/12-stages/digital-garden/10k-s-digital-garden/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 # 10k's Digital Garden
