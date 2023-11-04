@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-software-study/obsidian-using/obsidian-application/shortcut-key-learning/"}
+{"dg-publish":true,"permalink":"/07-software-study/obsidian-using/obsidian-application/shortcut-key-learning/","noteIcon":""}
 ---
 
 查看帮助 `F1`
