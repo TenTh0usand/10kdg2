@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-software-study/workflow/methods-of-writing-notes/the-distinction-between-outline-headings-and-body-formatting-of-notes/","tags":["workflow/writing"]}
+{"dg-publish":true,"permalink":"/07-software-study/workflow/methods-of-writing-notes/the-distinction-between-outline-headings-and-body-formatting-of-notes/","tags":["workflow/writing"],"noteIcon":""}
 ---
 
 
