@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-entertainment/6-3-pokemon-sleep/pokemon-sleep-tips-1/"}
+{"dg-publish":true,"permalink":"/06-entertainment/6-3-pokemon-sleep/pokemon-sleep-tips-1/","noteIcon":""}
 ---
 
 https://pokesleep.raenonx.cc/ Pokemon攻略站
