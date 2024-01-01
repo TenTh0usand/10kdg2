@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-software-study/google-chrome/google-chrome/","title":"Shortcut keys in Google Chrome","tags":["clipping/unlabled","Chrome"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/07-software-study/google-chrome/google-chrome/","title":"Shortcut keys in Google Chrome","tags":["Chrome","clipping"],"noteIcon":""}
 ---
 
 > ## Excerpt
